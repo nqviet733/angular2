@@ -1,0 +1,4 @@
+{
+    "proxy" : "http://rb-proxy-apac.bosch.com:8080",
+    "rejectUnauthorized" : false
+}

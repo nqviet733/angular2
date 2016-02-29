@@ -15,6 +15,7 @@ import {Hero} from './hero';
 	`,
   inputs: ['hero']
 })
+
 export class HeroDetailComponent {
 	hero: Hero;
 }
